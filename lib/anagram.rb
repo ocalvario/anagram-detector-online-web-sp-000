@@ -7,4 +7,6 @@ class Anagram
     @name = word
   end
 
+  
+
 end 
